@@ -9,6 +9,7 @@ public class BootClass {
 	}
 	public static void show() {
 		int [] arr={12,34,56,3,4,5,6};
+		System.out.println("not changed");
     for(int i=0;i<arr.length;i++) {
     	System.out.println(arr[i]);
     }
