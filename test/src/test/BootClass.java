@@ -8,7 +8,7 @@ public class BootClass {
     show();
 	}
 	public static void show() {
-		int [] arr={12,34,56,3,4,5,6};
+		int [] arr={54,6,98,234};
 		int sum=0;
     for(int n:arr) {
     	sum+=n;
