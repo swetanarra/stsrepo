@@ -12,6 +12,7 @@ public class BootClass {
 		int sum=0;
     for(int n:arr) {
     	sum+=n;
+    	sum+=n;
     	System.out.println(n);
     }
     System.out.println("showing show method");
